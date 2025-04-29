@@ -1,0 +1,22 @@
+{
+  "name": "app-hapus-judol",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "pkg ."
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "googleapis": "^105.0.0"
+  },
+  "pkg": {
+    "assets": [
+      "credentials.json",
+      "blockedword.json",
+      "token.json"
+    ],
+    "targets": ["node18-win-x64"],
+    "outputPath": "dist"
+  }
+}
