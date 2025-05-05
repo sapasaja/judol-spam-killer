@@ -52,3 +52,8 @@ Token Google disimpan secara lokal di token.json, hanya untuk satu akun YouTube.
 ✅ Status: Aktif & Dalam Pengembangan
 Judol Spam Killer dikembangkan untuk kebutuhan internal, tapi bisa digunakan secara publik untuk keperluan pribadi atau moderasi komunitas kecil.
 
+⬇️ cara download masuk ke realese download file exe
+karena ini aplikasi portable jadi anda tidak perlu repot install dan tidak akan bekerja di proses latar belakang, lebih aman dan tidak memberatkan komputer anda
+
+📱 untuk aplikasi android APK masih dalam tahab pengembangan
+
