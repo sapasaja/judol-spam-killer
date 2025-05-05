@@ -1,3 +1,5 @@
+![Deskripsi Gambar](https://github.com/sapasaja/judol-spam-killer/raw/main/ss.png)
+
 🛡️ Judol Spam Killer — Aplikasi Penghapus Komentar Spam YouTube
 Judol Spam Killer adalah aplikasi yang dirancang untuk membantu YouTuber atau moderator live stream dalam memantau dan menghapus komentar spam secara otomatis dari video YouTube dan live chat.
 
